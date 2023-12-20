@@ -50,7 +50,8 @@ for i in range(n):
 
 ## Output:
 
-![OUTPUT]](image.png)
+![output](https://github.com/Oviya24032K6/Gaussian/assets/147139999/3e9d8734-aa67-4fdb-b3db-3801342741e2)
+
 
 
 ## Result:
